@@ -1,0 +1,58 @@
+
+/*last edited 12/13/21 by Trevor Pettit*/
+
+.change_font{
+    color:rgb(219, 106, 1);
+    font-size: medium;
+    font-style:italic;
+    font-weight: bold;
+
+}
+
+.headingme{
+    font-weight: bold;
+    color: rgb(2, 49, 110);
+    text-shadow: 2px 1px orange;
+}
+
+.p_font_up{
+    font-size: medium;
+    color: rgb(26, 26, 26);
+}
+
+.youtube_vid
+{
+    width: 100%;
+}
+
+.myresumefont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(123, 227, 253);
+}
+
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.ul{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+ol{
+    font-size: 30px;
+}
+
+iframe{
+    height: 350px;
+    width: 500px;
+}
+
+.ztop{
+    z-index: 5;
+}
+
+.resumelisthead{
+    font-weight: bold;
+    font-style: normal;
+  }
